@@ -38,4 +38,8 @@ Multi-Gate Filtering: 오검출 방지를 위한 4단계 필터링 시스템을 
  효율성: 수동 수확 대비 일관된 수확 기준 제시 및 노동력 대체 가능성 입증.
 
 
- <img width="204" height="152" alt="Adobe Express - 경진대회용 영상 사진" src="https://github.com/user-attachments/assets/ff7a8b3e-5940-4e3d-ae45-8bbd23d668ea" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ff7a8b3e-5940-4e3d-ae45-8bbd23d668ea" width="85%" alt="방울토마토 수확 로봇 시연 영상">
+  <br>
+  <em>YOLOv5 기반 완숙 토마토 인식 및 로봇팔 수확 시연</em>
+</p>
