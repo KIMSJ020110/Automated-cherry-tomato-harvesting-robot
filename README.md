@@ -29,7 +29,7 @@ Multi-Gate Filtering: 오검출 방지를 위한 4단계 필터링 시스템을 
 🔄 System Workflow
 1. Autonomous Driving: 로봇이 농로를 주행하며 실시간 영상 분석 수행.
 2. Detection & Stop: 완숙 토마토 인식 시 STM32에 stop 신호 전송 및 정지.
-3. Coordinate Mapping: 영상 좌표(u, v)와 깊이 정보(Z를 결합하여 3차원 x, y, z 좌표 산출
+3. Coordinate Mapping: 영상 좌표(u, v)와 깊이 정보(Z를 결합하여 3차원 x, y, z 좌표 산출)
 4. Harvesting: 아두이노 로봇팔이 역기구학 경로를 따라 목표 지점 수확.
 5. Resume: 수확 시퀀스 완료 후 다시 주행 재개.
 
